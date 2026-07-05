@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} — {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Description | default site.Params.description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ site.Title }}">
+  {{ end -}}
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  {{ partial "gtm-head.html" . }}
+</head>
+<body>
+  {{ partial "gtm-body.html" . }}
+  <header class="site-header">
+    <nav>
+      <a class="site-name" href="{{ site.BaseURL }}">{{ site.Title }}</a>
+    </nav>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <p>© {{ now.Year }} {{ site.Title }}</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,14 @@
+baseURL = "https://thishw.github.io/the-korea-wave/"
+title = "The Korea Wave"
+defaultContentLanguage = "en"
+languageCode = "en-US"
+enableRobotsTXT = true
+timeZone = "Asia/Seoul"
+
+[params]
+  description = "The business of Korean culture — industry and analysis coverage of K-pop, K-drama, and Korean entertainment, synthesized from multiple Korean sources."
+  # G-GTM: 실 컨테이너 ID 발급 전 placeholder — 빈 값이면 GTM 스니펫 미출력
+  gtm_id = ""
+
+[pagination]
+  pagerSize = 20

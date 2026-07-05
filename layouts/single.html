@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article>
+  <header>
+    <h1>{{ .Title }}</h1>
+    <p class="meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ with .Params.news }}{{ with .dateline }} · <span class="dateline">{{ . }}</span>{{ end }}{{ end }}
+    </p>
+  </header>
+  {{ .Content }}
+</article>
+{{ partial "jsonld.html" . }}
+{{ end }}

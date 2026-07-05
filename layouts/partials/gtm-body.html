@@ -1,0 +1,6 @@
+{{- /* GTM noscript fallback — gtm_id 빈 값이면 미출력 (G-GTM 게이트). */ -}}
+{{- with site.Params.gtm_id -}}
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ . }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+{{- end -}}
