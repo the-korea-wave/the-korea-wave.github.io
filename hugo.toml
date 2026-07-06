@@ -12,3 +12,6 @@ timeZone = "Asia/Seoul"
 
 [pagination]
   pagerSize = 20
+
+[markup.goldmark.renderer]
+  unsafe = true
