@@ -46,6 +46,16 @@
     {{- with .price_range }}{{ $lb = merge $lb (dict "priceRange" .) }}{{ end -}}
   {{- end -}}
   {{- $schema = $lb -}}
+{{- else if eq $mt "webpage" -}}
+  {{- $schema = dict
+        "@context" "https://schema.org"
+        "@type" "WebPage"
+        "name" .Title
+        "description" (.Description | default (.Summary | plainify))
+        "url" .Permalink
+        "inLanguage" (site.Language.LanguageCode | default "en")
+        "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" site.BaseURL)
+  -}}
 {{- else -}}
   {{- $schema = merge $article (dict "@type" "BlogPosting") -}}
 {{- end -}}

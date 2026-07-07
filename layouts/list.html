@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}</h1>
 {{ if .IsHome }}{{ with site.Params.description }}<p class="site-description">{{ . }}</p>{{ end }}{{ end }}
-{{ $pages := cond .IsHome site.RegularPages .RegularPages }}
+{{ $pages := cond .IsHome (where site.RegularPages "Section" "posts") .RegularPages }}
 <section>
   <ul class="post-list">
     {{ range $pages.ByDate.Reverse }}

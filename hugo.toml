@@ -9,6 +9,8 @@ timeZone = "Asia/Seoul"
   description = "The business of Korean culture — industry and analysis coverage of K-pop, K-drama, and Korean entertainment, synthesized from multiple Korean sources."
   # G-GTM: 실 컨테이너 ID 발급 전 placeholder — 빈 값이면 GTM 스니펫 미출력
   gtm_id = ""
+  # WP-49: GSC HTML 태그 인증 (Google 계정 단위 토큰 — 속성마다 다를 필요 없음)
+  gsc_verification = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
 
 [pagination]
   pagerSize = 20

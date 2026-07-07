@@ -10,6 +10,7 @@
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ site.Title }}">
   {{ end -}}
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  {{ with site.Params.gsc_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
   {{ partial "gtm-head.html" . }}
 </head>
 <body>
@@ -23,6 +24,11 @@
     {{ block "main" . }}{{ end }}
   </main>
   <footer class="site-footer">
+    <nav class="footer-nav">
+      <a href="{{ "about/" | relURL }}">About</a>
+      <a href="{{ "contact/" | relURL }}">Contact</a>
+      <a href="{{ "privacy/" | relURL }}">Privacy Policy</a>
+    </nav>
     <p>© {{ now.Year }} {{ site.Title }}</p>
   </footer>
 </body>

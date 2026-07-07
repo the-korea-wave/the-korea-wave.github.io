@@ -80,3 +80,13 @@ th, td { border: 1px solid var(--border); padding: 0.4rem 0.6rem; text-align: le
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+.footer-nav {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.footer-nav a {
+  color: var(--muted);
+}
