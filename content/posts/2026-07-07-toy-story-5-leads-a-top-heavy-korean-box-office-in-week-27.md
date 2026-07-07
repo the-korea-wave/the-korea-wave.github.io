@@ -36,7 +36,7 @@ The overriding signal from Week 27 is top-heaviness: a strong animated tentpole 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>
 <ul>
-<li><a href="synd-data://kobis_boxoffice/2026-W27">주간 박스오피스 동향 다이제스트 (2026-W27): 매출 감소</a> — KOBIS (Korean Film Council), 2026-06-29</li>
+<li><a href="https://www.kobis.or.kr">주간 박스오피스 동향 다이제스트 (2026-W27): 매출 감소</a> — KOBIS (Korean Film Council), 2026-06-29</li>
 </ul>
 <p>출처: 영화진흥위원회 영화관입장권통합전산망(KOBIS)</p>
 </details>
