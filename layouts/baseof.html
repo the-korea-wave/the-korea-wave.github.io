@@ -11,6 +11,7 @@
   {{ end -}}
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ with site.Params.gsc_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
+  {{ with site.Params.naver_verification }}<meta name="naver-site-verification" content="{{ . }}">{{ end }}
   {{ partial "gtm-head.html" . }}
 </head>
 <body>
