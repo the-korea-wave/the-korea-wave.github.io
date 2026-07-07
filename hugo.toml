@@ -5,17 +5,56 @@ languageCode = "en-US"
 enableRobotsTXT = true
 timeZone = "Asia/Seoul"
 
+# 홈에서 검색 색인(index.json) + LLM 인덱스(llms.txt) 생성 — synapse-hugo-shared 모듈 소비
+[outputs]
+  home = ["HTML", "RSS", "JSON", "llms"]
+
+[outputFormats.llms]
+  mediaType = "text/plain"
+  baseName  = "llms"
+  isPlainText = true
+
 [params]
-  description = "The business of Korean culture — industry and analysis coverage of K-pop, K-drama, and Korean entertainment, synthesized from multiple Korean sources."
+  site_key       = "the_korea_wave"
+  tier           = "B"
+  description    = "The business of Korean culture — industry and analysis coverage of K-pop, K-drama, and Korean entertainment, synthesized from multiple Korean sources."
+  og_site_name   = "The Korea Wave"
+  og_locale      = "en_US"
+  og_image       = ""
   # G-GTM: 실 컨테이너 ID 발급 전 placeholder — 빈 값이면 GTM 스니펫 미출력
-  gtm_id = ""
+  gtm_id         = ""
   # WP-49: GSC HTML 태그 인증 (Google 계정 단위 토큰 — 속성마다 다를 필요 없음)
-  gsc_verification = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
+  verify_google  = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
   # WP-55: 네이버 서치어드바이저 HTML 태그 인증 (프로퍼티별 토큰 — 사이트마다 다름)
-  naver_verification = "c5cf2d3548fea0abbc9a9c0ff3a143d1f0107d17"
+  verify_naver   = "c5cf2d3548fea0abbc9a9c0ff3a143d1f0107d17"
+  verify_bing    = ""
+  adsense_pub_id = ""
+  daum_verification = ""
 
 [pagination]
   pagerSize = 20
 
+[taxonomies]
+  category = "categories"
+
+[[menu.main]]
+  name   = "Home"
+  url    = "/"
+  weight = 1
+
+[[menu.main]]
+  name   = "About"
+  url    = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name   = "Contact"
+  url    = "/contact/"
+  weight = 3
+
 [markup.goldmark.renderer]
   unsafe = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/thishw/synapse-hugo-shared"

@@ -1,0 +1,37 @@
+{{- /* 로컬 오버라이드 (WP-63/WP-64): shared sidebar.html의 UI 문자열이 한국어로 고정돼 있어
+     영문 매체(pulse/wave)용으로 번역. 구조·클래스는 shared 원본과 동일 — shared에 i18n 지원이
+     추가되면 이 오버라이드는 삭제 가능. */ -}}
+<aside class="sidebar">
+  <div class="sidebar-block sidebar-search">
+    <label class="sidebar-heading" for="site-search">Search</label>
+    <input type="search" id="site-search" class="search-input" placeholder="Search articles…"
+           autocomplete="off" data-index-url="{{ "index.json" | absURL }}">
+    <ul class="search-results" id="search-results" hidden></ul>
+  </div>
+
+  {{ $recent := first 8 (where site.RegularPages "Section" "posts") }}
+  {{ with $recent }}
+  <div class="sidebar-block">
+    <h2 class="sidebar-heading">Recent Posts</h2>
+    <ul class="sidebar-list">
+      {{ range . }}
+      <li class="sidebar-item">
+        <a href="{{ .RelPermalink }}" class="sidebar-link{{ if eq . $ }} active{{ end }}">{{ .Title }}</a>
+        <time class="sidebar-date">{{ .Date.Format "2006-01-02" }}</time>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{ with site.Taxonomies.categories }}
+  <div class="sidebar-block">
+    <h2 class="sidebar-heading">Categories</h2>
+    <ul class="sidebar-list sidebar-tags">
+      {{ range .ByCount }}
+      <li><a href="{{ .Page.RelPermalink }}" class="sidebar-tag">{{ .Page.Title }} <span class="tag-count">{{ .Count }}</span></a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+</aside>
