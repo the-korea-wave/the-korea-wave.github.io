@@ -73,6 +73,14 @@ blockquote {
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid var(--border); padding: 0.4rem 0.6rem; text-align: left; }
 
+.sources {
+  margin: 1.5rem 0;
+}
+
+.sources summary {
+  cursor: pointer;
+}
+
 .site-footer {
   margin-top: 3rem;
   padding: 1.25rem 0;

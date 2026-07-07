@@ -33,6 +33,10 @@ Rounding out the ten, *Backrooms* (38,130 weekly admissions; 1,192,089 cumulativ
 
 Week 27 fits a familiar pattern: a resilient top tier masking weakness beneath it. With top-three concentration climbing toward three-quarters of the market and every new release opening below the 70,000-admission mark, the 2.7% revenue dip reflects a market waiting for its next genuine breakout rather than one in structural retreat.
 
-Sources:
-- kobis_boxoffice: 주간 박스오피스 동향 다이제스트 (2026-W27): 매출 감소 (synd-data://kobis_boxoffice/2026-W27)
-출처: 영화진흥위원회 영화관입장권통합전산망(KOBIS)
+<details class="sources">
+<summary>Sources (1) — KOBIS (Korean Film Council)</summary>
+<ul>
+<li><a href="synd-data://kobis_boxoffice/2026-W27">주간 박스오피스 동향 다이제스트 (2026-W27): 매출 감소</a> — KOBIS (Korean Film Council), 2026-06-29</li>
+</ul>
+<p>출처: 영화진흥위원회 영화관입장권통합전산망(KOBIS)</p>
+</details>

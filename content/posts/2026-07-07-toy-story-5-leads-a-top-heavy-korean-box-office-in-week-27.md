@@ -33,6 +33,10 @@ Several titles opened with cumulative totals nearly equal to their weekly figure
 
 The overriding signal from Week 27 is top-heaviness: a strong animated tentpole and a competitive domestic release captured nearly three-quarters of both admissions and gross among the ten ranked films, while a crop of new openers arrived without generating breakout numbers. With Toy Story 5's cumulative total climbing past 2.2 million and Pupil still building its base, the coming weeks will test whether the market broadens or continues to reward a narrow slate of leaders.
 
-Sources:
-- kobis_boxoffice: 주간 박스오피스 다이제스트 (2026-W27) (synd-data://kobis_boxoffice/2026-W27)
-출처: 영화진흥위원회 영화관입장권통합전산망(KOBIS)
+<details class="sources">
+<summary>Sources (1) — KOBIS (Korean Film Council)</summary>
+<ul>
+<li><a href="synd-data://kobis_boxoffice/2026-W27">주간 박스오피스 동향 다이제스트 (2026-W27): 매출 감소</a> — KOBIS (Korean Film Council), 2026-06-29</li>
+</ul>
+<p>출처: 영화진흥위원회 영화관입장권통합전산망(KOBIS)</p>
+</details>

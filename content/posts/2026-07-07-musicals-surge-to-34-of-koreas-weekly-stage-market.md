@@ -44,6 +44,10 @@ The strength of titles such as Elisabeth, Frozen, and Billy Elliot reflects an e
 
 The week-27 data points to a market that is both top-heavy with concert tours and increasingly deep in musical theater. With musicals capturing a third of box-office activity and the leading-genre concentration easing to 50%, the near-term picture is one of expanding rather than narrowing demand. The open question is whether the surge reflects a durable structural shift toward theater or a seasonal cluster of high-profile openings — a distinction the coming weeks of KOPIS reporting should clarify.
 
-Sources:
-- kopis_performance: 주간 공연시장 동향 다이제스트 (2026-W27): 뮤지컬 점유 확대 (synd-data://kopis_boxoffice_ranking/2026-W27)
-출처: 예술경영지원센터 공연예술통합전산망(KOPIS)
+<details class="sources">
+<summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>
+<ul>
+<li><a href="synd-data://kopis_boxoffice_ranking/2026-W27">주간 공연시장 동향 다이제스트 (2026-W27): 뮤지컬 점유 확대</a> — KOPIS (Korea Arts Management Service), 2026-06-29</li>
+</ul>
+<p>출처: 예술경영지원센터 공연예술통합전산망(KOPIS)</p>
+</details>
