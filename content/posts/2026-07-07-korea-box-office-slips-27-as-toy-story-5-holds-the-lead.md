@@ -6,7 +6,7 @@ description: "Korea's 2026-W27 box office fell 2.7% week-on-week even as Toy Sto
 slug: "korea-box-office-slips-27-as-toy-story-5-holds-the-lead"
 keywords: ["Korea box office", "KOBIS", "Toy Story 5", "weekly admissions", "2026-W27"]
 media_type: "news"
-news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["synd-data://kobis_boxoffice/2026-W27"], "issue_cluster_id": "c-0cdb325b407f"}
+news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-0cdb325b407f"}
 ---
 
 South Korea's theatrical market cooled in the 27th week of 2026, with total weekly gross revenue down 2.7% from the prior week even as a fresh slate of four new releases entered the top ten, according to data from the Korean Film Council's integrated ticketing network (KOBIS). The decline came despite a stable top of the chart, signaling that softness was concentrated in the mid- and lower-ranked titles rather than the market leaders.

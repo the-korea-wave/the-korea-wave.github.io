@@ -6,7 +6,7 @@ description: "Musical theater's share of South Korea's live performance box offi
 slug: "musicals-surge-to-34-of-koreas-weekly-stage-market"
 keywords: ["Korean musicals", "KOPIS box office", "live performance market", "Elisabeth musical", "K-pop concerts"]
 media_type: "news"
-news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["synd-data://kopis_boxoffice_ranking/2026-W27"], "issue_cluster_id": "c-ba6e7d48b7db"}
+news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-ba6e7d48b7db"}
 ---
 
 South Korea's live performance market tilted sharply toward musical theater in the last full week of June 2026, with musicals climbing to 34% of box-office activity from 24% a week earlier — a 10-percentage-point gain, according to the Korea Performing Arts Box Office Information System (KOPIS). The shift unfolded even as arena-scale K-pop concerts held the very top of the chart, signaling that Korea's stage economy is broadening rather than consolidating around a single genre.

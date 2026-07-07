@@ -6,7 +6,7 @@ description: "Toy Story 5 and Pupil drew over 1.1 million of 1.56 million top-10
 slug: "toy-story-5-leads-a-top-heavy-korean-box-office-in-week-27"
 keywords: ["Korea box office", "Toy Story 5", "KOBIS", "weekly admissions", "2026 W27"]
 media_type: "news"
-news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["synd-data://kobis_boxoffice/2026-W27"], "issue_cluster_id": "c-0cdb325b407f"}
+news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-0cdb325b407f"}
 ---
 
 Korea's theatrical market in the 27th week of 2026 was defined by two dominant titles: **Toy Story 5** and the domestic release **Pupil (눈동자)** together accounted for roughly 1.14 million of the 1.56 million admissions logged across the top 10 films, or about 73 percent of the chart's ticket sales. According to the Korean Film Council's integrated ticketing network (KOBIS), the week's headline story is concentration at the top rather than breadth across new releases.
