@@ -30,12 +30,14 @@ timeZone = "Asia/Seoul"
   verify_bing    = ""
   adsense_pub_id = ""
   daum_verification = ""
+  show_term_chips = true
 
 [pagination]
   pagerSize = 20
 
 [taxonomies]
   category = "categories"
+  keyword  = "keywords"
 
 [[menu.main]]
   name   = "Home"
@@ -43,14 +45,19 @@ timeZone = "Asia/Seoul"
   weight = 1
 
 [[menu.main]]
+  name   = "Categories"
+  url    = "/categories/"
+  weight = 2
+
+[[menu.main]]
   name   = "About"
   url    = "/about/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name   = "Contact"
   url    = "/contact/"
-  weight = 3
+  weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true
