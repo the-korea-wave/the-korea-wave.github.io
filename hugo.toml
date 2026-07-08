@@ -31,6 +31,21 @@ timeZone = "Asia/Seoul"
   adsense_pub_id = ""
   daum_verification = ""
   show_term_chips = true
+  accent_color   = "#7048e8"
+  # i18n (WP-64): synapse-hugo-shared 라벨 파라미터 — 영문 매체용 값
+  date_format               = "January 2, 2006"
+  label_home                = "Home"
+  label_search              = "Search"
+  label_search_placeholder  = "Search articles…"
+  label_recent              = "Recent Articles"
+  label_categories          = "Categories"
+  label_all_categories      = "← All Categories"
+  label_related             = "Related Articles"
+  label_no_posts            = "No articles in this category."
+  label_count_suffix        = " articles"
+  label_llms_posts_heading  = "Articles"
+  label_taxonomy_desc       = "Browse articles by category."
+  label_taxonomy_empty      = "No categories yet."
 
 [pagination]
   pagerSize = 20
