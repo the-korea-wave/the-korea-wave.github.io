@@ -5,6 +5,7 @@ draft: false
 description: "Korea's 2026-W27 box office fell 2.7% week-on-week even as Toy Story 5 topped charts and top-three concentration climbed to 74.0%."
 slug: "korea-box-office-slips-27-as-toy-story-5-holds-the-lead"
 keywords: ["Korea box office", "KOBIS", "Toy Story 5", "weekly admissions", "2026-W27"]
+categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-0cdb325b407f"}
 ---

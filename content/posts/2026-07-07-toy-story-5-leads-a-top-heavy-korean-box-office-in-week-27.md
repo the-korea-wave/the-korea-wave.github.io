@@ -5,6 +5,7 @@ draft: false
 description: "Toy Story 5 and Pupil drew over 1.1 million of 1.56 million top-10 admissions in Korea's 2026 Week 27, as four new titles opened softly."
 slug: "toy-story-5-leads-a-top-heavy-korean-box-office-in-week-27"
 keywords: ["Korea box office", "Toy Story 5", "KOBIS", "weekly admissions", "2026 W27"]
+categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-0cdb325b407f"}
 ---
