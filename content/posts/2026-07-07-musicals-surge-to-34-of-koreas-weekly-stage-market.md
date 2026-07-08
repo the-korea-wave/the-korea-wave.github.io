@@ -48,7 +48,7 @@ The week-27 data points to a market that is both top-heavy with concert tours an
 <details class="sources">
 <summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>
 <ul>
-<li><a href="https://www.kopis.or.kr">주간 공연시장 동향 다이제스트 (2026-W27): 뮤지컬 점유 확대</a> — KOPIS (Korea Arts Management Service), 2026-06-29</li>
+<li><a href="https://www.kopis.or.kr">KOPIS (Korea Arts Management Service)</a>, 2026-06-29</li>
 </ul>
 <p>출처: 예술경영지원센터 공연예술통합전산망(KOPIS)</p>
 </details>
