@@ -20,6 +20,8 @@ timeZone = "Asia/Seoul"
   description    = "The business of Korean culture — industry and analysis coverage of K-pop, K-drama, and Korean entertainment, synthesized from multiple Korean sources."
   og_site_name   = "The Korea Wave"
   og_locale      = "en_US"
+  logo           = "/brand/wordmark.svg"
+  logo_dark      = "/brand/wordmark-dark.svg"
   og_image       = ""
   # G-GTM: 실 컨테이너 ID 발급 전 placeholder — 빈 값이면 GTM 스니펫 미출력
   gtm_id         = ""
