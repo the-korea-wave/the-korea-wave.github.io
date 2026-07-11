@@ -23,8 +23,7 @@ timeZone = "Asia/Seoul"
   logo           = "/brand/wordmark.svg"
   logo_dark      = "/brand/wordmark-dark.svg"
   og_image       = ""
-  # G-GTM: 실 컨테이너 ID 발급 전 placeholder — 빈 값이면 GTM 스니펫 미출력
-  gtm_id         = ""
+  gtm_id         = "GTM-5B6XBNBH"
   # WP-49: GSC HTML 태그 인증 (Google 계정 단위 토큰 — 속성마다 다를 필요 없음)
   verify_google  = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
   # WP-55: 네이버 서치어드바이저 HTML 태그 인증 (프로퍼티별 토큰 — 사이트마다 다름)
