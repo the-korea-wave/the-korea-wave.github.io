@@ -80,4 +80,4 @@ timeZone = "Asia/Seoul"
 
 [module]
   [[module.imports]]
-    path = "github.com/thishw/synapse-hugo-shared"
+    path = "github.com/thishw/media-hugo-shared"
