@@ -46,14 +46,19 @@ timeZone = "Asia/Seoul"
   label_count_suffix        = " articles"
   label_llms_posts_heading  = "Articles"
   label_taxonomy_desc       = "Browse articles by category."
+  label_categories_desc     = "Browse articles by category."
+  label_keywords_desc       = "Browse articles by keyword."
   label_taxonomy_empty      = "No categories yet."
+  label_keywords_empty      = "No keywords yet."
+  label_search_empty        = "No results"
+  label_search_noscript     = "Search requires JavaScript."
   label_read_more           = "Read more →"
   label_prev                = "← Previous"
   label_next                = "Next →"
   label_pagination          = "Pagination"
 
 [pagination]
-  pagerSize = 12
+  pagerSize = 20
 
 [taxonomies]
   category = "categories"
