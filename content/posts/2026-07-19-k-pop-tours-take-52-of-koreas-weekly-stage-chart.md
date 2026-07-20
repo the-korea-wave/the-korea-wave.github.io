@@ -4,6 +4,7 @@ date: "2026-07-19"
 draft: false
 description: "Pop concerts claimed 26 of the top 50 performances in Korea's week-28 box office, up two points, as ENHYPEN, 2PM and BOYNEXTDOOR opened arena runs."
 slug: "k-pop-tours-take-52-of-koreas-weekly-stage-chart"
+aliases: ["/posts/pop-concerts-lift-their-share-of-koreas-stage-market-to-52/", "/posts/theater-widens-its-share-of-koreas-concert-led-live-market/"]
 keywords: ["KOPIS", "Korean performance market", "K-pop concerts", "musical theatre", "box office ranking"]
 categories: ["Music & K-pop"]
 media_type: "news"

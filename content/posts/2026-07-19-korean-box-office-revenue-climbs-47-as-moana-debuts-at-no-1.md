@@ -4,6 +4,7 @@ date: "2026-07-19"
 draft: false
 description: "Korea's weekly box office rose 4.7% in W28 2026, with Moana opening at ₩5.64bn and the top three titles taking 77.2% of all revenue."
 slug: "korean-box-office-revenue-climbs-47-as-moana-debuts-at-no-1"
+aliases: ["/posts/korea-box-office-climbs-47-as-moana-storms-to-no-1/", "/posts/moana-storms-koreas-box-office-as-weekly-sales-climb-47/", "/posts/korea-box-office-climbs-47-as-moana-leads-a-top-heavy-week/", "/posts/koreas-box-office-grows-47-as-moana-debuts-at-no-1/"]
 keywords: ["Korean box office", "KOBIS", "Moana", "weekly admissions", "film distribution Korea"]
 categories: ["Film & Box Office"]
 media_type: "news"

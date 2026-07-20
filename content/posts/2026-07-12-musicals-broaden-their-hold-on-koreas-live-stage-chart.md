@@ -4,6 +4,7 @@ date: "2026-07-12"
 draft: false
 description: "Korea's weekly performance market saw musicals climb to 34% of the box office as chart leadership spread across more genres in late June 2026."
 slug: "musicals-broaden-their-hold-on-koreas-live-stage-chart"
+aliases: ["/posts/musicals-surge-to-34-of-koreas-weekly-stage-market/", "/posts/musicals-surge-to-34-of-koreas-stage-market-in-late-june-2026/", "/posts/musicals-claim-a-third-of-koreas-weekly-stage-market/", "/posts/musicals-seize-a-third-of-koreas-weekly-stage-chart/", "/posts/musicals-widen-their-grip-on-koreas-weekly-live-stage/", "/posts/musical-theater-claims-a-third-of-koreas-weekly-stage-chart/"]
 keywords: ["Korea performance market", "musicals", "KOPIS box office", "K-pop tours", "live entertainment"]
 categories: ["Music & K-pop"]
 media_type: "news"

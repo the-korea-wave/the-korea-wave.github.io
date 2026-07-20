@@ -4,6 +4,7 @@ date: "2026-07-12"
 draft: false
 description: "South Korea's weekly box office fell 2.7% in 2026-W27 even as four titles debuted, with Toy Story 5 leading and the top three's revenue share climbing to 74%."
 slug: "korea-box-office-slips-27-as-toy-story-5-holds-and-concentration-tightens"
+aliases: ["/posts/korea-box-office-slips-27-as-toy-story-5-holds-the-lead/", "/posts/toy-story-5-leads-a-top-heavy-korean-box-office-in-week-27/", "/posts/koreas-weekly-box-office-dips-27-as-toy-story-5-keeps-the-top-spot/", "/posts/koreas-weekly-box-office-dips-27-as-toy-story-5-holds-the-lead/", "/posts/korea-box-office-slips-27-in-week-27-as-toy-story-5-holds-the-top-spot/", "/posts/koreas-box-office-cools-27-as-the-chart-tightens-week-27/", "/posts/koreas-weekly-box-office-slips-27-as-toy-story-5-holds-top-spot/"]
 keywords: ["Korea box office", "Toy Story 5", "KOBIS", "weekly ticket sales", "film distribution", "market concentration"]
 categories: ["Film & Box Office"]
 media_type: "news"
