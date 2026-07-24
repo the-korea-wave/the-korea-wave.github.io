@@ -9,6 +9,7 @@ keywords: ["Korean box office", "KOBIS", "Moana", "weekly admissions", "film dis
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-3db099ed56b6"}
+og_image: "images/posts/korean-box-office-revenue-climbs-47-as-moana-debuts-at-no-1.jpg"
 ---
 
 Korea's theatrical market grew 4.7% in total weekly revenue during the 28th week of 2026, but the gain came almost entirely from a single new arrival: Moana opened directly at first place with ₩5.64 billion and 511,463 admissions, all of them accumulated in its debut frame. Every one of the seven holdover titles on the chart lost ground week-on-week, and none of the returning films climbed a single position.

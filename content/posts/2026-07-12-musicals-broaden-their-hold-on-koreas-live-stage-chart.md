@@ -9,6 +9,7 @@ keywords: ["Korea performance market", "musicals", "KOPIS box office", "K-pop to
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-ba6e7d48b7db"}
+og_image: "images/posts/musicals-broaden-their-hold-on-koreas-live-stage-chart.jpg"
 ---
 
 Musicals accounted for 34 percent of South Korea's performance box office in the 27th week of 2026, up from 24 percent the prior period, even as the overall chart grew less top-heavy. The 10-point jump made staged musicals the fastest-rising genre of the week, while the share held by the leading genres slipped from 60 percent to 50 percent — a sign that ticket spending spread across a wider mix of shows rather than concentrating in a single format.

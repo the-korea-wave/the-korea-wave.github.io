@@ -8,6 +8,7 @@ keywords: ["SK Hynix", "Samsung Electronics", "Korean stocks", "Mirae Asset", "m
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["rss_mk", "rss_mk", "rss_mk", "rss_mk", "dart_disclosure", "dart_disclosure", "dart_disclosure"], "source_urls": ["https://www.mk.co.kr/news/stock/12104445", "https://www.mk.co.kr/news/stock/12105495", "https://www.mk.co.kr/news/stock/12103384", "https://www.mk.co.kr/news/stock/12102480", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723000416", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723000406", "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260723000394"], "issue_cluster_id": "c-c0a2d85406ee"}
+og_image: "images/posts/koreas-top-traders-swing-back-to-samsung-and-sk-hynix.jpg"
 ---
 
 On the afternoon of July 23, the highest-performing retail traders at Mirae Asset Securities — the group ranked in the top 1% by one-month return — moved decisively back into South Korea's two largest memory-chip makers. SK Hynix and Samsung Electronics topped their net-buying list, with Hyundai Motor rounding out the leaders, while the same cohort lightened up on Naver, SK Square and Samsung Heavy Industries. It marked a reunion of the "Samjeon-nix" pairing — a market nickname for holding Samsung Electronics and SK Hynix together — after several days of the two names pulling in opposite directions.

@@ -8,6 +8,7 @@ keywords: ["Korean box office", "KOBIS", "weekly admissions", "theatrical distri
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-d79435976c4e"}
+og_image: "images/posts/one-opening-doubled-koreas-box-office-in-the-week-of-july-2026.jpg"
 ---
 
 Korea's theatrical market roughly doubled in a single week, and almost all of that came from one title. Weekly gross rose 112.5% against the previous week, driven by the opening of *Hope* (호프), which alone collected 23.58 billion won and drew 2,119,041 admissions — about two-thirds of everything sold across the top ten.

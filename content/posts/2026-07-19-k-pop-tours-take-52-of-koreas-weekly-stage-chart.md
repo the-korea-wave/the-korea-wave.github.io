@@ -9,6 +9,7 @@ keywords: ["KOPIS", "Korean performance market", "K-pop concerts", "musical thea
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-4d8155858b65"}
+og_image: "images/posts/k-pop-tours-take-52-of-koreas-weekly-stage-chart.jpg"
 ---
 
 Pop music widened its hold on Korea's live performance market in the second week of July 2026, taking 52% of the top 50 box office chart against 50% a week earlier — a two-percentage-point gain driven almost entirely by a cluster of arena tours opening outside Seoul.

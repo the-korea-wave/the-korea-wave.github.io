@@ -8,6 +8,7 @@ keywords: ["Korean musical theater", "KOPIS box office", "Lim Young-woong", "BIG
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-db2afe464722"}
+og_image: "images/posts/musicals-take-44-of-koreas-weekly-stage-market-as-stadium-pop-tops-charts.jpg"
 ---
 
 Musical theater accounted for 44% of South Korea's 50 highest-grossing stage productions in the week of mid-July 2026, up from 32% a week earlier — a 12-percentage-point jump that made it the single largest genre on the chart, according to box office data from the Korea Performing Arts Box Office Information System (KOPIS), operated by the Korea Arts Management Service.
