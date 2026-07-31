@@ -9,6 +9,7 @@ keywords: ["Korea box office", "Toy Story 5", "KOBIS", "weekly ticket sales", "f
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-0cdb325b407f"}
+og_image: "images/posts/korea-box-office-slips-27-as-toy-story-5-holds-and-concentration-tightens.jpg"
 ---
 
 South Korea's theatrical market cooled in the last full week of data for 2026 (week 27), with total gross revenue down 2.7% from the prior week. The dip came despite four fresh releases entering the chart, because none of the newcomers landed high enough to offset softening demand for the holdovers — and the money that remained pooled more tightly around a handful of titles at the top.
