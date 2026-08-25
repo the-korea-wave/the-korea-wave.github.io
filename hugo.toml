@@ -104,6 +104,12 @@ timeZone = "Asia/Seoul"
   verify_naver   = "2825d3e1d5d7b0df0315581a8d07bb44a0036995"
   verify_bing    = ""
   adsense_pub_id = "ca-pub-7608448237186938"
+  # E-E-A-T (2026-08-26): AdSense "가치가 별로 없는 콘텐츠" 반려 대응. 편집 책임자를
+  # 명시해 바이라인·JSON-LD Person을 활성화한다. 필명이며 실재하는 편집 책임자다.
+  author      = "HW"
+  author_role = "Editor"
+  author_url  = "/editorial-standards/"
+  label_byline = "Edited by"
   daum_verification = ""
   show_term_chips = true
   accent_color   = "#7048e8"
