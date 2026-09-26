@@ -90,6 +90,7 @@ timeZone = "Asia/Seoul"
   site_key       = "the_korea_wave"
   tier           = "B"
   websubhub      = "https://pubsubhubbub.appspot.com/"
+  googleprune    = true  # 축 A 없는 글은 구글에만 noindex·사이트맵 제외(테마 is-google-pruned.html). false로 되돌리면 원복
   description    = "The business of Korean culture — industry and analysis coverage of K-pop, K-drama, and Korean entertainment, synthesized from multiple Korean sources."
   og_site_name   = "The Korea Wave"
   og_locale      = "en_US"
