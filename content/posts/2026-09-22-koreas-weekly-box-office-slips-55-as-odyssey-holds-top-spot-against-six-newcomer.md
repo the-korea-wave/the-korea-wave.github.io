@@ -47,11 +47,11 @@ The week's -5.5% revenue change came with zero upward moves in the rankings, mea
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Gross sales | 10973.68 KRW | 2026-W38 |
-| Gross sales | -5.54 % | 2026-W38 |
-| Gross sales | 37.99 % | 2026-W38 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Gross sales | Average ticket price (sales ÷ admissions) | ₩10,974 | 2026-W38 |
+| Gross sales | Change from the previous period | −5.54% | 2026-W38 |
+| Gross sales | Top film's share of box-office sales | 37.99% | 2026-W38 |
 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>

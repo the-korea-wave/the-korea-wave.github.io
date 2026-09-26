@@ -41,11 +41,11 @@ The week's numbers frame a familiar late-summer transition: the holiday-season t
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Gross sales | 10894.87 KRW | 2026-W35 |
-| Gross sales | -32.57 % | 2026-W35 |
-| Gross sales | 68.02 % | 2026-W35 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Gross sales | Average ticket price (sales ÷ admissions) | ₩10,895 | 2026-W35 |
+| Gross sales | Change from the previous period | −32.57% | 2026-W35 |
+| Gross sales | Top film's share of box-office sales | 68.02% | 2026-W35 |
 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>

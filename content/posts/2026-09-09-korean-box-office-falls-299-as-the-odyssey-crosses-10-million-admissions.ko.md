@@ -31,11 +31,11 @@ news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["h
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 매출액 | 10809.34 KRW | 2026-W36 |
-| 매출액 | -29.94 % | 2026-W36 |
-| 매출액 | 65.62 % | 2026-W36 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 매출액 | 평균 객단가(매출 ÷ 관객) | 10,809원 | 2026-W36 |
+| 매출액 | 직전 기간 대비 증감 | −29.94% | 2026-W36 |
+| 매출액 | 1위 작품의 매출 점유율 | 65.62% | 2026-W36 |
 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>

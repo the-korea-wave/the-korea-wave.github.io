@@ -40,12 +40,12 @@ og_image: "images/posts/popular-music-expands-its-grip-on-koreas-weekly-stage-ma
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 회장 수용 규모(좌석) | 92.12 % | 2026-W37 |
-| 회장 수용 규모(좌석) | 17.34 % | 2026-W37 |
-| 회장 수용 규모(좌석) | 1458.5 count | 2026-W37 |
-| 회장 수용 규모(좌석) | 2.7 % | 2026-W37 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 회장 수용 규모(좌석) | 최대 장르의 좌석 점유율 | 92.12% | 2026-W37 |
+| 회장 수용 규모(좌석) | 최대 공연 1편의 좌석 점유율 | 17.34% | 2026-W37 |
+| 회장 수용 규모(좌석) | 공연장 규모 중앙값(석) | 1,458.5 | 2026-W37 |
+| 회장 수용 규모(좌석) | 직전 기간 대비 증감 | +2.7% | 2026-W37 |
 
 <details class="sources">
 <summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>

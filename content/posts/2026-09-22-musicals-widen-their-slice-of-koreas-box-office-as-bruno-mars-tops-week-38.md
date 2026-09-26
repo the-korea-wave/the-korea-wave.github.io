@@ -56,12 +56,12 @@ KOPIS ranking data measures box-office position, not revenue in won, and the gen
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Venue capacity (seats) | 90.9 % | 2026-W38 |
-| Venue capacity (seats) | 17.84 % | 2026-W38 |
-| Venue capacity (seats) | 1785.0 count | 2026-W38 |
-| Venue capacity (seats) | -14.85 % | 2026-W38 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Venue capacity (seats) | Share of seats held by the largest genre | 90.9% | 2026-W38 |
+| Venue capacity (seats) | Largest show's share of total seats | 17.84% | 2026-W38 |
+| Venue capacity (seats) | Median venue size (seats) | 1,785 | 2026-W38 |
+| Venue capacity (seats) | Change from the previous period | −14.85% | 2026-W38 |
 
 <details class="sources">
 <summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>

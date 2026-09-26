@@ -31,11 +31,11 @@ The share of weekly revenue captured by the top three films slipped from 84.9% t
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Gross sales | 10809.34 KRW | 2026-W36 |
-| Gross sales | -29.94 % | 2026-W36 |
-| Gross sales | 65.62 % | 2026-W36 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Gross sales | Average ticket price (sales ÷ admissions) | ₩10,809 | 2026-W36 |
+| Gross sales | Change from the previous period | −29.94% | 2026-W36 |
+| Gross sales | Top film's share of box-office sales | 65.62% | 2026-W36 |
 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>

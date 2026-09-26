@@ -33,12 +33,12 @@ The question for the coming weeks is whether the 54% share marks a seasonal peak
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Venue capacity (seats) | 88.74 % | 2026-W36 |
-| Venue capacity (seats) | 19.5 % | 2026-W36 |
-| Venue capacity (seats) | 1373.0 count | 2026-W36 |
-| Venue capacity (seats) | 12.12 % | 2026-W36 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Venue capacity (seats) | Share of seats held by the largest genre | 88.74% | 2026-W36 |
+| Venue capacity (seats) | Largest show's share of total seats | 19.5% | 2026-W36 |
+| Venue capacity (seats) | Median venue size (seats) | 1,373 | 2026-W36 |
+| Venue capacity (seats) | Change from the previous period | +12.12% | 2026-W36 |
 
 <details class="sources">
 <summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>

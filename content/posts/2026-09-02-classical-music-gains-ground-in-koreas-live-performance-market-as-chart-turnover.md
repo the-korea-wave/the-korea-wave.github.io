@@ -33,12 +33,12 @@ Whether classical music holds its expanded share will depend on how the genre's 
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Venue capacity (seats) | 86.89 % | 2026-W35 |
-| Venue capacity (seats) | 22.05 % | 2026-W35 |
-| Venue capacity (seats) | 2222.0 count | 2026-W35 |
-| Venue capacity (seats) | 7.3 % | 2026-W35 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Venue capacity (seats) | Share of seats held by the largest genre | 86.89% | 2026-W35 |
+| Venue capacity (seats) | Largest show's share of total seats | 22.05% | 2026-W35 |
+| Venue capacity (seats) | Median venue size (seats) | 2,222 | 2026-W35 |
+| Venue capacity (seats) | Change from the previous period | +7.3% | 2026-W35 |
 
 <details class="sources">
 <summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>

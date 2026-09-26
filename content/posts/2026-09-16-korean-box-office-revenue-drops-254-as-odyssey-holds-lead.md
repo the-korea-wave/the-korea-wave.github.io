@@ -40,11 +40,11 @@ The reduced concentration among the three biggest films offers some evidence of 
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Gross sales | 11000.09 KRW | 2026-W37 |
-| Gross sales | -25.42 % | 2026-W37 |
-| Gross sales | 58.56 % | 2026-W37 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Gross sales | Average ticket price (sales ÷ admissions) | ₩11,000 | 2026-W37 |
+| Gross sales | Change from the previous period | −25.42% | 2026-W37 |
+| Gross sales | Top film's share of box-office sales | 58.56% | 2026-W37 |
 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>

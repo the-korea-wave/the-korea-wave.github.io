@@ -40,12 +40,12 @@ The week therefore paired continued concentration in the capital with evidence t
 <!-- syndicator:derived-data -->
 ## By the Numbers
 
-| Metric | Value | Period |
-|---|---|---|
-| Venue capacity (seats) | 92.12 % | 2026-W37 |
-| Venue capacity (seats) | 17.34 % | 2026-W37 |
-| Venue capacity (seats) | 1458.5 count | 2026-W37 |
-| Venue capacity (seats) | 2.7 % | 2026-W37 |
+| Metric | What it measures | Value | Period |
+|---|---|---|---|
+| Venue capacity (seats) | Share of seats held by the largest genre | 92.12% | 2026-W37 |
+| Venue capacity (seats) | Largest show's share of total seats | 17.34% | 2026-W37 |
+| Venue capacity (seats) | Median venue size (seats) | 1,458.5 | 2026-W37 |
+| Venue capacity (seats) | Change from the previous period | +2.7% | 2026-W37 |
 
 <details class="sources">
 <summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>

@@ -40,11 +40,11 @@ og_image: "images/posts/korean-box-office-revenue-drops-254-as-odyssey-holds-lea
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 매출액 | 11000.09 KRW | 2026-W37 |
-| 매출액 | -25.42 % | 2026-W37 |
-| 매출액 | 58.56 % | 2026-W37 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 매출액 | 평균 객단가(매출 ÷ 관객) | 11,000원 | 2026-W37 |
+| 매출액 | 직전 기간 대비 증감 | −25.42% | 2026-W37 |
+| 매출액 | 1위 작품의 매출 점유율 | 58.56% | 2026-W37 |
 
 <details class="sources">
 <summary>Sources (1) — KOBIS (Korean Film Council)</summary>

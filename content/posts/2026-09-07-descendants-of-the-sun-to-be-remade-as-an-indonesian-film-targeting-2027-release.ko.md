@@ -33,9 +33,9 @@ news: {"dateline": null, "source_names": ["rss_mydaily_star", "rss_hankyung_ente
 <!-- syndicator:derived-data -->
 ## 데이터로 보기
 
-| 지표 | 값 | 기간 |
-|---|---|---|
-| 국제수지(상품수지, 한국은행) | -7461.6 백만달러 | 202606/202607 |
+| 지표 | 측정 | 값 | 기간 |
+|---|---|---|---|
+| 국제수지(상품수지, 한국은행) | 직전 기간 대비 증감 | −7,461.6 백만달러 | 2026-06 → 2026-07 |
 
 <details class="sources">
 <summary>Sources (3) — MyDaily (Star) · The Korea Economic Daily (Entertainment) · Ministry of Economy and Finance</summary>
