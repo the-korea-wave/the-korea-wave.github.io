@@ -146,9 +146,13 @@ timeZone = "Asia/Seoul"
 [[params.network_links]]
   name = "HW Insight"
   url  = "https://insight.thishw.com/"
+  feed = "https://insight.thishw.com/index.xml"
+  latest = 5
 [[params.network_links]]
   name = "The Korea Pulse"
   url  = "https://pulse.koreasignals.com/"
+  feed = "https://pulse.koreasignals.com/index.xml"
+  latest = 5
 
 [pagination]
   pagerSize = 20
