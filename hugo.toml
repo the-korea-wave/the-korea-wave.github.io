@@ -1,3 +1,4 @@
+enableGitInfo = true  # lastmod·dateModified = 파일 마지막 커밋일(실제 수정 반영, syndicator §0-71)
 baseURL = "https://wave.koreasignals.com/"
 title = "The Korea Wave"
 defaultContentLanguage = "en"
@@ -110,7 +111,7 @@ timeZone = "Asia/Seoul"
   # 명시해 바이라인·JSON-LD Person을 활성화한다. 필명이며 실재하는 편집 책임자다.
   author      = "HW"
   author_role = "Editor"
-  author_url  = "/editorial-standards/"
+  author_url  = "https://wave.koreasignals.com/editorial-standards/"
   label_byline = "Edited by"
   daum_verification = ""
   show_term_chips = true
