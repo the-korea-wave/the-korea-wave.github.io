@@ -8,6 +8,7 @@ keywords: ["Korea performing arts", "classical music", "KOPIS", "box office", "m
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-fd2e124230fa"}
+og_image: "images/posts/classical-music-gains-ground-in-koreas-live-performance-market-as-chart-turnover.jpg"
 ---
 
 Classical music expanded its foothold in South Korea's live performance market in the last week of August, with the genre's share of the box office top 50 rising from 4% to 6% — a two-percentage-point gain in a chart that remains dominated by pop concerts and musicals. The shift came during a week of unusually high turnover: 34 productions entered the ranking for the first time, while 11 titles slid down the chart against only four that climbed.

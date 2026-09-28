@@ -8,6 +8,7 @@ keywords: ["Korea box office", "KOBIS", "Odyssey", "The Intern", "weekly cinema 
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-eae69c63bfbd"}
+og_image: "images/posts/koreas-weekly-box-office-slips-55-as-odyssey-holds-top-spot-against-six-newcomer.jpg"
 ---
 
 Korean theaters sold less in the 38th week of 2026 than the week before. Total weekly box office revenue fell 5.5%, according to the Korean Film Council's integrated ticketing system (KOBIS), even as six titles entered the chart for the first time. The top of the table barely moved: Odyssey (오디세이) stayed in first place, and the only real reshuffling happened below it, where no film climbed and three slid down.

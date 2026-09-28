@@ -8,6 +8,7 @@ keywords: ["Korean box office", "KOBIS", "The Odyssey", "Spider-Man Brand New Da
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-1a50aa8cc44a"}
+og_image: "images/posts/korean-box-office-falls-299-as-the-odyssey-crosses-10-million-admissions.jpg"
 ---
 
 Korea's theatrical market cooled sharply in the week of August 31 through September 6, with total weekly ticket revenue falling 29.9% from the prior week — even as *The Odyssey* pushed past the 10 million cumulative admissions mark, the country's traditional benchmark for a blockbuster. Four films entered the top 10, but none of them came close to offsetting the pullback at the top of the chart.

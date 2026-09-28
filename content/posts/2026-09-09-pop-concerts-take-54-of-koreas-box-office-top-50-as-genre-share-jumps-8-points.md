@@ -8,6 +8,7 @@ keywords: ["Korea performing arts", "KOPIS box office", "pop concerts", "K-pop c
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-a0e29826a0df"}
+og_image: "images/posts/pop-concerts-take-54-of-koreas-box-office-top-50-as-genre-share-jumps-8-points.jpg"
 ---
 
 Pop music tightened its grip on Korea's live-performance market in the first week of September, taking 27 of the 50 spots on the national box office ranking — a 54% share, up eight percentage points from 46% the week before, according to data from the Korea Performing Arts Box Office Information System (KOPIS).

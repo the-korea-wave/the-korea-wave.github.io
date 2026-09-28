@@ -8,6 +8,7 @@ keywords: ["클래식 공연", "공연 박스오피스", "뮤지컬", "케이팝
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-fd2e124230fa"}
+og_image: "images/posts/classical-music-gains-ground-in-koreas-live-performance-market-as-chart-turnover.jpg"
 ---
 
 8월 마지막 주 국내 공연 박스오피스 상위 50위에서 클래식 음악이 차지하는 비중이 4%에서 6%로 2%p 올랐다. 대중음악 콘서트와 뮤지컬이 여전히 장악한 차트에서 나온 변화다. 이 한 주 동안 순위표는 유난히 크게 출렁였다. 34편이 처음으로 순위에 진입했고, 기존 작품 가운데 순위가 오른 작품은 4편에 그친 반면 11편은 아래로 밀려났다.

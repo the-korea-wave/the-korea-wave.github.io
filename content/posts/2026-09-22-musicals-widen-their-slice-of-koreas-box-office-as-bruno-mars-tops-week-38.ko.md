@@ -8,6 +8,7 @@ keywords: ["공연 시장", "KOPIS", "뮤지컬 점유율", "브루노 마스 �
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-08fceb06c788"}
+og_image: "images/posts/musicals-widen-their-slice-of-koreas-box-office-as-bruno-mars-tops-week-38.jpg"
 ---
 
 2026년 38주차 한국 공연 매표 시장에서 뮤지컬 장르의 점유율이 22%에서 30%로 올라섰다. 공연예술통합전산망(KOPIS) 집계 기준으로 한 주 만에 8%p가 늘어난 것이다. 같은 주 순위표 최상단은 콘서트가 장악했다. 브루노 마스 내한 공연, 조용필의 전국 투어 서울 공연, 로이킴 라이브 투어가 50편 순위의 1위부터 3위까지를 차지했다.

@@ -8,6 +8,7 @@ keywords: ["주간 박스오피스", "영화진흥위원회 통합전산망", "�
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-eae69c63bfbd"}
+og_image: "images/posts/koreas-weekly-box-office-slips-55-as-odyssey-holds-top-spot-against-six-newcomer.jpg"
 ---
 
 2026년 38주차 한국 극장가는 전주보다 덜 벌었다. 영화진흥위원회 통합전산망(KOBIS) 집계 기준 주간 매출액은 5.5% 감소했다. 신작 6편이 한꺼번에 순위표에 들어왔는데도 시장 전체는 오히려 줄어든 셈이다. 최상위권은 거의 그대로였다. 오디세이가 1위를 지켰고, 순위 변동은 그 아래에서만 일어났다. 순위가 오른 영화는 한 편도 없었고 세 편이 내려갔다.

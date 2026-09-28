@@ -8,6 +8,7 @@ keywords: ["Korean box office", "The Odyssey", "Spider-Man Brand New Day", "KOBI
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-47fef6d1ccb5"}
+og_image: "images/posts/korean-box-office-falls-326-in-week-35-as-the-odyssey-towers-over-a-thinning-mar.jpg"
 ---
 
 South Korea's box office cooled sharply in the last week of August, with total weekly ticket revenue falling 32.6 percent from the previous week even as *The Odyssey* held its commanding position at the top of the chart. The pullback came despite three fresh titles entering the top ten, none of which opened strongly enough to offset the fading momentum of the summer's biggest releases.

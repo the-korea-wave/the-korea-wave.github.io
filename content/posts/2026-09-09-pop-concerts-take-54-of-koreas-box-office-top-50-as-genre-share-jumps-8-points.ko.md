@@ -8,6 +8,7 @@ keywords: ["공연 박스오피스", "KOPIS", "대중음악 콘서트", "김동�
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-a0e29826a0df"}
+og_image: "images/posts/pop-concerts-take-54-of-koreas-box-office-top-50-as-genre-share-jumps-8-points.jpg"
 ---
 
 9월 첫째 주 국내 공연 시장의 주도권은 대중음악이 쥐었다. 공연예술통합전산망(KOPIS) 집계 기준으로 대중음악은 전국 박스오피스 상위 50편 가운데 27편을 차지해 점유율 54%를 기록했다. 전주 46%에서 한 주 만에 8%p 오른 수치다.

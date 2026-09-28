@@ -8,6 +8,7 @@ keywords: ["한국 박스오피스", "오디세이", "스파이더맨 브랜드 
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-47fef6d1ccb5"}
+og_image: "images/posts/korean-box-office-falls-326-in-week-35-as-the-odyssey-towers-over-a-thinning-mar.jpg"
 ---
 
 8월 마지막 주 한국 극장가의 주간 매출은 전주보다 32.6% 줄었다. '오디세이'가 한 주에만 198억 7000만 원을 벌며 1위를 굳건히 지켰지만, 시장 전체의 하강을 막지는 못했다. 이번 주 톱10에 신작 세 편이 새로 진입했음에도, 여름 대작들이 잃어버린 동력을 메울 만큼 힘 있게 출발한 작품은 한 편도 없었다.

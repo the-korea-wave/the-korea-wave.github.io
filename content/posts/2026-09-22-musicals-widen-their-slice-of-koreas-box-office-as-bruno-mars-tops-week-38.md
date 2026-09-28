@@ -8,6 +8,7 @@ keywords: ["Korea performance market", "KOPIS", "musicals", "Bruno Mars Seoul", 
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-08fceb06c788"}
+og_image: "images/posts/musicals-widen-their-slice-of-koreas-box-office-as-bruno-mars-tops-week-38.jpg"
 ---
 
 Musicals took a markedly larger share of Korea's live-performance box office in week 38 of 2026, climbing from 22% to 30% of the tracked market, an 8 percentage-point gain in a single week, according to the Korea Performing Arts Box Office Information System (KOPIS). The shift came in a week dominated at the very top by concerts: Bruno Mars's Korea dates, Cho Yong-pil's national tour stop in Seoul, and Roy Kim's live tour filled the first three positions in the ranking of 50 productions.

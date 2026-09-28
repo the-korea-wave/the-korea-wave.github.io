@@ -8,6 +8,7 @@ keywords: ["박스오피스", "오디세이", "1000만 관객", "스파이더맨
 categories: ["Film & Box Office"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["https://www.kobis.or.kr"], "issue_cluster_id": "c-1a50aa8cc44a"}
+og_image: "images/posts/korean-box-office-falls-299-as-the-odyssey-crosses-10-million-admissions.jpg"
 ---
 
 8월 31일부터 9월 6일까지 한 주간 한국 극장가는 뚜렷하게 식었다. 주간 총 매출이 전주 대비 29.9% 감소한 것이다. 같은 기간 1위 '오디세이'(The Odyssey)는 한국 시장에서 블록버스터의 전통적 기준선으로 통하는 누적 관객 1000만 명을 넘어섰다. 신작 4편이 톱10에 진입했지만, 어느 작품도 차트 최상단에서 빠져나간 매출을 메우기에는 역부족이었다.
