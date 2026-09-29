@@ -11,17 +11,17 @@ news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["h
 og_image: "images/posts/korean-box-office-revenue-rises-1768-in-week-39.jpg"
 ---
 
-South Korea’s weekly box office revenue rose 176.8% in week 39, with the three highest-grossing films accounting for 74.7% of sales, up from 70.0% the previous week.
+South Korea’s weekly box office revenue rose 176.8% in week 39, with the three highest-grossing films accounting for 74.7% of sales, up from 70.0% the previous week. The jump coincided with the Chuseok holiday (Sept. 24–26) and a slate of releases on Sept. 23, including the week's top two films.
 
 ## Three films drive the gains
 
-*암살자(들)* led the chart with ₩15.35 billion in revenue and 1.55 million admissions for the week. New chart entry *타짜: 벨제붑의 노래* followed with ₩8.29 billion and 813,833 admissions. In third place, *오디세이* earned ₩7.18 billion from 565,696 admissions, bringing its cumulative audience to 11.78 million.
+*Assassin(s)* (암살자(들)) led the chart with ₩15.35 billion in revenue and 1.55 million admissions for the week. The latest *Tazza* film (타짜: 벨제붑의 노래), new to the top ten, followed with ₩8.29 billion and 813,833 admissions. In third place, *Odyssey* (오디세이) earned ₩7.18 billion from 565,696 admissions, bringing its cumulative audience to 11.78 million.
 
 Together, those three films generated ₩30.82 billion in weekly ticket sales. Their increased share shows how strongly the revenue gain was concentrated at the top of the chart.
 
 ## New entries reshape the top ten
 
-Four films entered the weekly top ten. Among them, *가능한 사랑* placed sixth with ₩1.23 billion, while *어벤져스: 엔드게임 앙코르* ranked seventh with ₩1.30 billion. Across the chart, one film rose in rank and five fell.
+Four films entered the weekly top ten. Among them, *Possible Love* (가능한 사랑) placed sixth with ₩1.23 billion, while an encore release of *Avengers: Endgame* (어벤져스: 엔드게임 앙코르) ranked seventh with ₩1.30 billion. Across the chart, one film rose in rank and five fell.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers
