@@ -1030,6 +1030,24 @@
       "slug_hint": "musicals-gain-ground-in-koreas-weekly-performance-rankings",
       "title": "Musicals Gain Ground in Korea’s Weekly Performance Rankings",
       "url": "https://wave.koreasignals.com/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings/"
+    },
+    {
+      "content_id": "synd:c-9c5254825983",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Korean box office",
+        "weekly revenue",
+        "KOBIS",
+        "Chiikawa",
+        "film rankings"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-10-05-korean-box-office-revenue-falls-351-in-week-40.md",
+      "platform": "github_site",
+      "published_at": "2026-10-05T22:55:32.668354Z",
+      "slug_hint": "korean-box-office-revenue-falls-351-in-week-40",
+      "title": "Korean Box Office Revenue Falls 35.1% in Week 40",
+      "url": "https://wave.koreasignals.com/posts/korean-box-office-revenue-falls-351-in-week-40/"
     }
   ],
   "version": 1
