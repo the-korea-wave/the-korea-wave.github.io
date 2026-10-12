@@ -1,8 +1,8 @@
 ---
-title: "Korea’s Weekly Box Office Revenue Falls 6% as Top Three Gain Share"
+title: "Korea’s Box Office: Top-10 Revenue Falls 6% as Top Three Gain Share"
 date: "2026-10-12"
 draft: false
-description: "Weekly Korean box office revenue fell 6%, while the top three films’ share rose to 70.7% and two titles entered the top 10."
+description: "Revenue from Korea’s top 10 films fell 6% in week 41, while the top three films’ share rose to 70.7% and two titles entered the top 10."
 slug: "koreas-weekly-box-office-revenue-falls-6-as-top-three-gain-share"
 keywords: ["Korea box office", "weekly revenue", "KOBIS", "film admissions"]
 categories: ["Film & Box Office"]
@@ -11,17 +11,17 @@ news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["h
 og_image: "images/posts/koreas-weekly-box-office-revenue-falls-6-as-top-three-gain-share.jpg"
 ---
 
-South Korea’s weekly box office revenue fell 6.0% in week 41 of 2026, even as the three highest-grossing films took a larger share of ticket sales. Their combined share rose from 65.0% to 70.7%.
+Revenue from South Korea’s top 10 films fell 6.0% in week 41 of 2026 (Oct. 5–11), even as the three highest-grossing films took a larger share of ticket sales. Their combined share rose from 65.0% to 70.7%.
 
 ## The top three take a larger share
 
-*암살자(들)* led the weekly chart with ₩7.46 billion in revenue and 758,592 admissions. *극장판 치이카와: 인어 섬의 비밀* followed with ₩6.97 billion and 676,731 admissions, while *타짜: 벨제붑의 노래* ranked third with ₩3.87 billion and 378,518 admissions. Together, the three films earned about ₩18.30 billion.
+*The Assassin(s)* (암살자(들)) led the weekly chart with ₩7.46 billion in revenue and 758,592 admissions. *Chiikawa the Movie: The Secret of the Mermaid Island* (극장판 치이카와: 인어 섬의 비밀) followed with ₩6.97 billion and 676,731 admissions, while *Tazza: The Song of Beelzebub* (타짜: 벨제붑의 노래) ranked third with ₩3.87 billion and 378,518 admissions. Together, the three films earned about ₩18.30 billion.
 
 ## Two films enter the top 10
 
-*룩백* debuted at No. 6 with ₩667 million and 61,985 admissions. *입에 대한 앙케트* entered at No. 7 with ₩508 million and 50,473 admissions.
+*Look Back* (룩백) entered the top 10 at No. 6 after its Oct. 8 release, with ₩667 million and 61,985 admissions. *The Mouths* (입에 대한 앙케트), a new release, entered at No. 7 with ₩508 million and 50,473 admissions.
 
-The weekly ranking recorded one film moving up and two moving down. Despite the new entries, the top three accounted for a greater portion of revenue in a week when overall sales declined.
+Among films already in the previous week’s top 10, one moved up and two moved down. Despite the new entries, the top three accounted for a greater portion of revenue in a week when top-10 revenue declined.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers
