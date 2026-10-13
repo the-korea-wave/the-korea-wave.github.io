@@ -7,7 +7,7 @@ slug: "musicals-gain-ground-in-koreas-weekly-performance-rankings"
 keywords: ["국내 공연 시장", "뮤지컬", "공연예술통합전산망", "공연 흥행 순위", "대중음악 콘서트"]
 categories: ["Music & K-pop"]
 media_type: "news"
-news: {"dateline": null, "source_names": ["kopis_performance", "gov_press_mofe", "gov_press_mofe"], "source_urls": ["https://www.kopis.or.kr", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079478", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079372"], "issue_cluster_id": "c-3eae3516622e"}
+news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-3eae3516622e"}
 og_image: "images/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings.jpg"
 ---
 
@@ -32,11 +32,9 @@ og_image: "images/posts/musicals-gain-ground-in-koreas-weekly-performance-rankin
 | 회장 수용 규모(좌석) | 직전 기간 대비 증감 | −16.14% | 2026-W40 |
 
 <details class="sources">
-<summary>Sources (3) — KOPIS (Korea Arts Management Service) · Ministry of Economy and Finance</summary>
+<summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>
 <ul>
 <li><a href="https://www.kopis.or.kr">KOPIS (Korea Arts Management Service)</a>, 2026-09-28</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079478">Ministry of Economy and Finance</a>, 2026-09-30</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079372">Ministry of Economy and Finance</a>, 2026-09-17</li>
 </ul>
-<p>출처: 예술경영지원센터 공연예술통합전산망(KOPIS) 출처: 재정경제부 보도자료, 공공누리 제1유형</p>
+<p>출처: 예술경영지원센터 공연예술통합전산망(KOPIS)</p>
 </details>
