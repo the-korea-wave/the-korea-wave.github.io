@@ -7,7 +7,7 @@ slug: "popular-dance-takes-8-of-koreas-weekly-performance-ranking"
 keywords: ["Korea performance market", "KOPIS", "popular dance", "concerts", "musicals"]
 categories: ["Music & K-pop"]
 media_type: "news"
-news: {"dateline": null, "source_names": ["kopis_performance", "gov_press_mofe"], "source_urls": ["https://www.kopis.or.kr", "http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079478"], "issue_cluster_id": "c-527d96e28ee6"}
+news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-527d96e28ee6"}
 og_image: "images/posts/popular-dance-takes-8-of-koreas-weekly-performance-ranking.jpg"
 ---
 
@@ -36,10 +36,9 @@ Popular dance’s arrival is a shift in the **composition of the ranking**. The 
 | Venue capacity (seats) | Change from the previous period | +24.37% | 2026-W41 |
 
 <details class="sources">
-<summary>Sources (2) — KOPIS (Korea Arts Management Service) · Ministry of Economy and Finance</summary>
+<summary>Sources (1) — KOPIS (Korea Arts Management Service)</summary>
 <ul>
 <li><a href="https://www.kopis.or.kr">KOPIS (Korea Arts Management Service)</a>, 2026-10-05</li>
-<li><a href="http://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId=MOSFBBS_000000000028&menuNo=4010100&searchNttId=MOSF_000000000079478">Ministry of Economy and Finance</a>, 2026-09-30</li>
 </ul>
-<p>출처: 예술경영지원센터 공연예술통합전산망(KOPIS) 출처: 재정경제부 보도자료, 공공누리 제1유형</p>
+<p>출처: 예술경영지원센터 공연예술통합전산망(KOPIS)</p>
 </details>
