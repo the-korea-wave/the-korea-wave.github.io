@@ -1083,6 +1083,24 @@
       "slug_hint": "popular-dance-takes-8-of-koreas-weekly-performance-ranking",
       "title": "Popular Dance Takes 8% of Korea’s Weekly Performance Ranking",
       "url": "https://wave.koreasignals.com/posts/popular-dance-takes-8-of-koreas-weekly-performance-ranking/"
+    },
+    {
+      "content_id": "synd:c-ad7ad463ac03",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Korea performing arts",
+        "musicals",
+        "box office",
+        "concerts",
+        "KOPIS"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-10-19-musicals-gain-ground-in-koreas-weekly-performance-ranking.md",
+      "platform": "github_site",
+      "published_at": "2026-10-19T22:10:34.535697Z",
+      "slug_hint": "musicals-gain-ground-in-koreas-weekly-performance-ranking",
+      "title": "Musicals Gain Ground in Korea’s Weekly Performance Ranking",
+      "url": "https://wave.koreasignals.com/posts/musicals-gain-ground-in-koreas-weekly-performance-ranking/"
     }
   ],
   "version": 1
