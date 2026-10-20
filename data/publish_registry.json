@@ -1101,6 +1101,23 @@
       "slug_hint": "musicals-gain-ground-in-koreas-weekly-performance-ranking",
       "title": "Musicals Gain Ground in Korea’s Weekly Performance Ranking",
       "url": "https://wave.koreasignals.com/posts/musicals-gain-ground-in-koreas-weekly-performance-ranking/"
+    },
+    {
+      "content_id": "synd:c-9ca260a3eb1b",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Korean box office",
+        "weekly revenue",
+        "Chiikawa",
+        "film admissions"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-10-20-koreas-weekly-box-office-revenue-falls-459-in-week-42.md",
+      "platform": "github_site",
+      "published_at": "2026-10-20T07:56:26.322159Z",
+      "slug_hint": "koreas-weekly-box-office-revenue-falls-459-in-week-42",
+      "title": "Korea’s Weekly Box Office Revenue Falls 45.9% in Week 42",
+      "url": "https://wave.koreasignals.com/posts/koreas-weekly-box-office-revenue-falls-459-in-week-42/"
     }
   ],
   "version": 1
