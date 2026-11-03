@@ -1154,6 +1154,24 @@
       "slug_hint": "koreas-weekly-box-office-revenue-falls-258-despite-new-releases",
       "title": "Korea’s Weekly Box Office Revenue Falls 25.8% Despite New Releases",
       "url": "https://wave.koreasignals.com/posts/koreas-weekly-box-office-revenue-falls-258-despite-new-releases/"
+    },
+    {
+      "content_id": "synd:c-2ca0eef9bf7b",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Korea performances",
+        "musicals",
+        "KOPIS",
+        "box office",
+        "live music"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-11-03-musicals-gain-ground-in-koreas-week-44-performance-ranking.md",
+      "platform": "github_site",
+      "published_at": "2026-11-03T07:10:53.906694Z",
+      "slug_hint": "musicals-gain-ground-in-koreas-week-44-performance-ranking",
+      "title": "Musicals Gain Ground in Korea’s Week 44 Performance Ranking",
+      "url": "https://wave.koreasignals.com/posts/musicals-gain-ground-in-koreas-week-44-performance-ranking/"
     }
   ],
   "version": 1
