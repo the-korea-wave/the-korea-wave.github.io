@@ -1,8 +1,8 @@
 ---
-title: "Korean Box Office Revenue Falls 12.7% in Week 45"
+title: "Korea’s Weekly Top 10 Box Office Revenue Falls 12.7% in Week 45"
 date: "2026-11-09"
 draft: false
-description: "Weekly ticket revenue fell as five films entered the chart and the top three titles accounted for a smaller share of sales."
+description: "Revenue of South Korea’s top 10 films fell 12.7% from the previous week as five new releases entered the top 10 and the leading three titles accounted for a smaller share of sales."
 slug: "korean-box-office-revenue-falls-127-in-week-45"
 keywords: ["Korean box office", "KOBIS", "weekly revenue", "Chiikawa", "new releases"]
 categories: ["Film & Box Office"]
@@ -11,17 +11,17 @@ news: {"dateline": null, "source_names": ["kobis_boxoffice"], "source_urls": ["h
 og_image: "images/posts/korean-box-office-revenue-falls-127-in-week-45.jpg"
 ---
 
-South Korea’s weekly box office revenue fell 12.7% in week 45 of 2026, even as five films entered the weekly chart. The top three titles accounted for 51.4% of sales, down from 54.5% the previous week.
+Revenue of the top 10 films at South Korea’s box office fell 12.7% in week 45 of 2026 (Nov. 2–8) from the previous week, even as five new releases entered the top 10. The leading three titles accounted for 51.4% of weekly revenue, down from 54.5% the previous week.
 
 ## Chiikawa holds first place
 
-*극장판 치이카와: 인어 섬의 비밀* led the weekly ranking with ₩2.07 billion in revenue and 204,998 admissions. Its cumulative audience reached 2.79 million. *하트 오브 비스트* followed with ₩1.59 billion and 162,807 admissions.
+*Chiikawa the Movie: The Secret of the Mermaid Island (극장판 치이카와: 인어 섬의 비밀)* led the weekly ranking with ₩2.07 billion in revenue and 204,998 admissions. Its cumulative audience reached 2.79 million. *Heart of the Beast (하트 오브 비스트)* followed with ₩1.59 billion and 162,807 admissions.
 
-New entrant *최종면접* took third place, earning ₩1.52 billion from 152,235 admissions. Two other named new entrants, *명탐정 코난: 30호 살인 사건* and *극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉*, placed fourth and fifth.
+New top-10 entry *Final Interview (최종면접)*, which opened on Nov. 4, took third place, earning ₩1.52 billion from 152,235 admissions. Two other new releases, *Detective Conan: The Counterfeit Case of Ultra 30 (명탐정 코난: 30호 살인 사건)*, which opened on Nov. 5, and *Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- (극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉)*, which opened on Nov. 4, placed fourth and fifth.
 
 ## Sales spread beyond the top three
 
-The top three’s share of revenue fell by 3.1 percentage points, even as the leading film retained first place. KOBIS recorded three titles moving down the weekly ranking and none moving up.
+The top three’s share of revenue fell by 3.1 percentage points, even as the leading film retained first place. Of the films already in the previous week’s top 10, three moved down and none moved up.
 
 <!-- syndicator:derived-data -->
 ## By the Numbers
