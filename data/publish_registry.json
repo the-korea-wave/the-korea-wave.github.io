@@ -1190,6 +1190,24 @@
       "slug_hint": "koreas-weekly-box-office-revenue-falls-54-in-week-44",
       "title": "Korea’s Weekly Box Office Revenue Falls 5.4% in Week 44",
       "url": "https://wave.koreasignals.com/posts/koreas-weekly-box-office-revenue-falls-54-in-week-44/"
+    },
+    {
+      "content_id": "synd:c-33595fd56710",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Korean box office",
+        "KOBIS",
+        "weekly revenue",
+        "Chiikawa",
+        "new releases"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-11-09-korean-box-office-revenue-falls-127-in-week-45.md",
+      "platform": "github_site",
+      "published_at": "2026-11-09T22:38:48.678395Z",
+      "slug_hint": "korean-box-office-revenue-falls-127-in-week-45",
+      "title": "Korean Box Office Revenue Falls 12.7% in Week 45",
+      "url": "https://wave.koreasignals.com/posts/korean-box-office-revenue-falls-127-in-week-45/"
     }
   ],
   "version": 1
