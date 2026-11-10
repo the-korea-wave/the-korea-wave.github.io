@@ -1208,6 +1208,24 @@
       "slug_hint": "korean-box-office-revenue-falls-127-in-week-45",
       "title": "Korean Box Office Revenue Falls 12.7% in Week 45",
       "url": "https://wave.koreasignals.com/posts/korean-box-office-revenue-falls-127-in-week-45/"
+    },
+    {
+      "content_id": "synd:c-f1355a1c3326",
+      "gate_version": "1.4.0",
+      "keywords": [
+        "Korea performance market",
+        "musicals",
+        "KOPIS",
+        "box office",
+        "concerts"
+      ],
+      "language": "en",
+      "path": "content/posts/2026-11-10-musicals-gain-ground-in-koreas-weekly-performance-rankings.md",
+      "platform": "github_site",
+      "published_at": "2026-11-10T07:10:42.873512Z",
+      "slug_hint": "musicals-gain-ground-in-koreas-weekly-performance-rankings",
+      "title": "Musicals Gain Ground in Korea’s Weekly Performance Rankings",
+      "url": "https://wave.koreasignals.com/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings/"
     }
   ],
   "version": 1
