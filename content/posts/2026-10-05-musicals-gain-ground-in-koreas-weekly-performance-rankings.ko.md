@@ -3,12 +3,12 @@ title: "2026년 40주차 공연 순위, 뮤지컬 16편 진입"
 date: "2026-10-05"
 draft: false
 description: "2026년 40주차 국내 공연 흥행 상위 50위에서 뮤지컬 비중이 24%에서 32%로 늘고, 10위 안에는 뮤지컬 5편이 올랐다."
-slug: "musicals-gain-ground-in-koreas-weekly-performance-rankings"
+slug: "musicals-gain-ground-in-koreas-weekly-performance-rankings-2026-w40"
 keywords: ["국내 공연 시장", "뮤지컬", "공연예술통합전산망", "공연 흥행 순위", "대중음악 콘서트"]
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-3eae3516622e"}
-og_image: "images/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings.jpg"
+og_image: "images/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings-2026-w40.jpg"
 ---
 
 2026년 40주차 국내 공연 흥행 상위 50위에서 뮤지컬은 16편을 차지했다. 비중은 24%에서 32%로 높아졌고, 10위 안에는 5편이 들었다. 대중음악 콘서트는 30편으로 여전히 가장 많았다.

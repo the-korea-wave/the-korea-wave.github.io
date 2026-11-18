@@ -3,12 +3,12 @@ title: "Musicals Gain Ground in Korea’s Weekly Performance Rankings"
 date: "2026-10-05"
 draft: false
 description: "Musicals rose to 32% of Korea’s top 50 performances in week 40, placing five productions in the top 10."
-slug: "musicals-gain-ground-in-koreas-weekly-performance-rankings"
+slug: "musicals-gain-ground-in-koreas-weekly-performance-rankings-2026-w40"
 keywords: ["Korea performance market", "musicals", "KOPIS", "box office", "live concerts"]
 categories: ["Music & K-pop"]
 media_type: "news"
 news: {"dateline": null, "source_names": ["kopis_performance"], "source_urls": ["https://www.kopis.or.kr"], "issue_cluster_id": "c-3eae3516622e"}
-og_image: "images/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings.jpg"
+og_image: "images/posts/musicals-gain-ground-in-koreas-weekly-performance-rankings-2026-w40.jpg"
 ---
 
 Musicals took 16 of the 50 places in Korea’s performance box office ranking for week 40 of 2026, raising their share from 24% to 32%. Pop concerts still held the largest share, with 30 entries, but musicals claimed five of the top 10 spots.
