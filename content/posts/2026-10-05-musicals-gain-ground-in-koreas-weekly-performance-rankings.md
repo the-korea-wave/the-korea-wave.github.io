@@ -1,5 +1,5 @@
 ---
-title: "Musicals Gain Ground in Korea’s Weekly Performance Rankings"
+title: "Musicals Take 16 of 50 Places in Korea’s Week 40 Performance Rankings"
 date: "2026-10-05"
 draft: false
 description: "Musicals rose to 32% of Korea’s top 50 performances in week 40, placing five productions in the top 10."
